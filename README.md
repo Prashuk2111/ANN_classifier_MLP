@@ -15,6 +15,8 @@ We need to develop a neural network based classifier for three various but relat
 11. Hue
 12. OD280/OD315 of diluted liquid
 13. Proline
+
+
 2.1  Build a classifier (multilayer neural network), vary its parameters (number of hidden layers and number of nodes in each layer) and try to find the best possible classification performance (a table illustrating various results as parameters are varied would be preferred). Please discuss.
 2.2 Once this is done, classify (determine to which product they belong) the following entries each of which has 13 attributes:
 a) 13.72; 1.43; 2.5; 16.7; 108; 3.4; 3.67; 0.19; 2.04; 6.8; 0.89; 2.87; 1285
